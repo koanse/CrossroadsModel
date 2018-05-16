@@ -1,0 +1,17 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\CrossroadsModel.Properties.Resources.resources
+obj\Debug\CrossroadsModel.csproj.GenerateResource.Cache
+bin\Debug\CrossroadsModel.exe
+bin\Debug\CrossroadsModel.pdb
+obj\Debug\CrossroadsModel.exe
+obj\Debug\CrossroadsModel.pdb
+obj\Debug\CrossroadsModel.Form1.resources
+bin\Release\CrossroadsModel.exe
+bin\Release\CrossroadsModel.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\CrossroadsModel.Form1.resources
+obj\Release\CrossroadsModel.Properties.Resources.resources
+obj\Release\CrossroadsModel.csproj.GenerateResource.Cache
+obj\Release\CrossroadsModel.exe
+obj\Release\CrossroadsModel.pdb
+obj\Release\CrossroadsModel.ParamsForm.resources
